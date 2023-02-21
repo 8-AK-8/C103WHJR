@@ -1,0 +1,42 @@
+#div_title{
+  border-radius: 4px;
+  background-color: azure;
+  width: 1900px;
+  height: 40px;
+  align-items: center;
+  color: black;
+}
+body{
+  background-image: url(https://img.freepik.com/free-vector/blurred-background-design_1107-224.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: aliceblue;
+}
+#div_webcam{
+  border-radius: 10px;
+ border: 5px black solid ;
+ box-shadow: 2px 2px 12px whitesmoke;
+ height: 300px;
+ width: 400px;
+}
+#div_image{
+  border-radius: 10px;
+  border: 5px black solid ;
+  box-shadow: 2px 2px 12px whitesmoke;
+  height: 300px;
+  width: 400px;
+}
+#button_capture{
+  width: 200px;
+  height: 30px;
+  border-radius: 100px;
+  border: 5px black solid ;
+}
+#button_identify{
+  width: 200px;
+  height: 30px;
+  border-radius: 100px;
+  border: 5px black solid ;
+}
